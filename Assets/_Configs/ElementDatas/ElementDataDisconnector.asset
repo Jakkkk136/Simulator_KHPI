@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebf207562fa24cdf97fc1d928912a657, type: 3}
+  m_Name: ElementDataDisconnector
+  m_EditorClassIdentifier: 
+  activeStateSprite: {fileID: 21300000, guid: ea980cd3779090e43b12145e62ec3437, type: 3}
+  inactiveStateSprite: {fileID: 21300000, guid: c4abe32211f798642aeb574259eb4c9e, type: 3}
+  correctActiveSprite: {fileID: 21300000, guid: 22625be79817a27459d8812cc202af5c, type: 3}
+  correctInactiveSprite: {fileID: 21300000, guid: 841814a3accca8141953c7deb52ead9b, type: 3}
+  incorrectActiveSprite: {fileID: 21300000, guid: c15df84d6bb57974a8f43ff5558b2327, type: 3}
+  incorrectInactiveSprite: {fileID: 21300000, guid: 7c65545281f18164ca46802e1e8560e6, type: 3}
+  scale: {x: 0.3431063, y: 0.47539476}
