@@ -7,21 +7,21 @@ This project is the subject of a master's thesis of a student of the Department 
 
 ## Demo
 
-https://jakkkk136.github.io/KHPI/
+https://jakkkk136.github.io/Simulator_KHPI/
 
 ## Screenshots
 
 **Головне меню симулятора** / Main menu
 
-![App Screenshot](https://github.com/Jakkkk136/KHPI/blob/master/ReadMe_Images/Main_Menu.png?raw=true)
+![App Screenshot](https://github.com/Jakkkk136/Simulator_KHPI/blob/master/ReadMe_Images/Main_Menu.png?raw=true)
 
 **Створення навчального рівня** / Level creation process
 
-![App Screenshot](https://github.com/Jakkkk136/KHPI/blob/master/ReadMe_Images/Create_Level_1.png?raw=true)
+![App Screenshot](https://github.com/Jakkkk136/Simulator_KHPI/blob/master/ReadMe_Images/Create_Level_1.png?raw=true)
 
-![App Screenshot](https://github.com/Jakkkk136/KHPI/blob/master/ReadMe_Images/Create_Level_2.png?raw=true)
+![App Screenshot](https://github.com/Jakkkk136/Simulator_KHPI/blob/master/ReadMe_Images/Create_Level_2.png?raw=true)
 
 **Результат проходження рівня** / The result of passing the level
 
-![App Screenshot](https://github.com/Jakkkk136/KHPI/blob/master/ReadMe_Images/Level_Done.png?raw=true)
+![App Screenshot](https://github.com/Jakkkk136/Simulator_KHPI/blob/master/ReadMe_Images/Level_Done.png?raw=true)
 
